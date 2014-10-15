@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen
+END
+DOMUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/DOMUtils.java
+END
+SequenceOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/SequenceOrder.java
+END
+XsdChoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/XsdChoice.java
+END
+XsdSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/XsdSchema.java
+END
+XsdSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/XsdSequence.java
+END
+PrefixMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/PrefixMap.java
+END
+VersionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/VersionInfo.java
+END
+SchemaLocationMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/SchemaLocationMap.java
+END
+XsdType.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/XsdType.java
+END
+TokenMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/TokenMap.java
+END
+XsdRestriction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/XsdRestriction.java
+END
+XArchConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/XArchConstants.java
+END
+XsdComplexType.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/XsdComplexType.java
+END
+XsdSimpleContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/XsdSimpleContent.java
+END
+XsdEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/XsdEnumeration.java
+END
+QName.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/QName.java
+END
+SchemaProcessingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/SchemaProcessingException.java
+END
+ApiGenUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/ApiGenUtils.java
+END
+SchemaMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/SchemaMap.java
+END
+TokenReplacerReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/TokenReplacerReader.java
+END
+ApiGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/ApiGen.java
+END
+XsdExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/XsdExtension.java
+END
+XsdSimpleType.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/XsdSimpleType.java
+END
+XsdElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/XsdElement.java
+END
+XsdAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/XsdAttribute.java
+END
+StringReplacerReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/StringReplacerReader.java
+END
+XsdComplexContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/XsdComplexContent.java
+END
+SimpleNodeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/SimpleNodeList.java
+END

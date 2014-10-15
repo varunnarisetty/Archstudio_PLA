@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/gui
+END
+SchemaLocationMappingDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/gui/SchemaLocationMappingDialog.java
+END
+DirectoryPickerWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/gui/DirectoryPickerWidget.java
+END
+GeneratorThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/gui/GeneratorThread.java
+END
+SchemaLocationMappingWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/gui/SchemaLocationMappingWidget.java
+END
+ApiGenGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/gui/ApiGenGui.java
+END
+SchemaPickerWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/gui/SchemaPickerWidget.java
+END
+JInsetPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/isr/projects/!svn/ver/10081/archstudio4/branches/umkc/branches/varun/apigen/src/edu/uci/isr/apigen/gui/JInsetPanel.java
+END
